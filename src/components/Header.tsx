@@ -35,5 +35,6 @@ export default function Header() {
             />
             <button className="font-bold text-l">EN</button>
         </div>
+        <br/>
     </header>)
 }
